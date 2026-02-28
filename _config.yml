@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yihua Du(杜壹华)"
-description              : "Yihua is now an M.Phil. student in the AI Thrust at HKUST(GZ). He is currently studying computer vision, with his research focusing on controllable video generation."
-# repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Jiang Cheng (江城)"
+description              : "Jiang Cheng is a senior undergraduate student at Northwest A&F University (西北农林科技大学), majoring in Facility Agriculture Science and Engineering. His research focuses on plant nutrition, grafting technology, and soilless cultivation."
+# repository               : "GreyWolfJiang/GreyWolfJiang.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yihua Du(杜壹华)"
-  avatar           : "images/cv_pic_v3.jpg"
-  bio              : "  HKUST(GZ) | M.Phil. "
-  location         : "Guangzhou, China"
+  name             : "Jiang Cheng (江城)"
+  avatar           : "images/cv_pic.jpg"
+  bio              : "NWAFU | B.Sc. Facility Agriculture"
+  location         : "Yangling, Shaanxi, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID&user=D8uIgkkAAAAJ"
-  email            : "duyihua0130@gmail.com"
+  googlescholar    :
+  email            : "787264101@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,21 +37,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hit-perfect"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : 壹华-杜-055625240
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : https://orcid.org/0009-0002-1907-9014
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://x.com/YihuaDu92465
+  twitter          :
   vine             :
   weibo            :
   xing             :
