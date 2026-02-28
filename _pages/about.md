@@ -67,7 +67,6 @@ Please feel free to contact me at *787264101@qq.com*
 # 📖 Educations
 - *2021.09 – 2025.06*, <img src="images/nwafu-logo.png" alt="NWAFU-Logo" style="height:2em; vertical-align:middle;"> **B.Sc.**, Northwest A&F University (西北农林科技大学), Yangling, Shaanxi.
   - College of Horticulture | Major: Facility Agriculture Science and Engineering (设施农业科学与工程)
-  - GPA: **3.33 / 4.00** | Average Score: **83.41 / 100**
   - Core Courses: Botany, Plant Physiology, Soilless Cultivation, Organic Horticulture, Facility Vegetable Cultivation, Facility Agricultural Environment Engineering, Plant Protection, Soil & Plant Nutrition
 
 # 💻 Activities & Practice
