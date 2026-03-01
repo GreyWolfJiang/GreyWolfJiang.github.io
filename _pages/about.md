@@ -71,6 +71,9 @@ Participated in constructing **Y1H, LUC, and BiFC vectors** for gene-protein int
 # 📖 Educations
 - *2021.09 – 2025.06*, <img src="images/nwafu-logo.png" alt="NWAFU-Logo" style="height:2em; vertical-align:middle;"> **B.Sc.**, Northwest A&F University (西北农林科技大学), Yangling, Shaanxi.
 
+# 📄 My Resume
+<!-- - [English Resume / 英文简历](../images/Yihua_Du_CV.pdf) | [Chinese Resume / 中文简历](../images/杜壹华_20251216.pdf)  -->
+- You can get my resume [here](../images/CV/CV.pdf)!
 
 # 🍭 Habits
 
